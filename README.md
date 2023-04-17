@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello everyone, I’m Mathias.
+
+I’m currently in BUT MMI in Mulhouse, France.
+
+I love using Linux, programming in various languages, mostly web languages (HTML, CSS, JS and PHP). I like to create databases, in order to imagine the best way to store data.
+
+I hope you will like my work!
 
 <!--
 **MathiasLinux/MathiasLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
