@@ -1,8 +1,18 @@
 ### Hello everyone, I’m Mathias.
 
-I’m currently in BUT MMI in Mulhouse, France.
+Graduated in BUT MMI in Mulhouse, France.
 
-I love using Linux, programming in various languages, mostly web languages (HTML, CSS, JS and PHP). I like to create databases, in order to imagine the best way to store data.
+I love different IT domains:
+
+- 🐧 I love using Linux, it can be to deploy services, to create scripts in Bash to simplify my daily life, or even just for fun!
+
+- 👨‍💻 I also love programming in various languages: PHP, JS, Python, Java and C. It can be for a website, for a desktop application or for a script. I'm always ready to discover new languages, frameworks or techniques.
+
+- 🗃️ I love using databases as well. I like to imagine the best way to store datas, what strutures and systems to use, to get the best performance and usability.
+
+- 🌐 Finally, I also love to create and manage networks. Create networks so they can be secure and fast.
+
+🎓 I'm currently searching for a new training, to expand my knowledge in all theses domains.
 
 I hope you will like my work!
 
