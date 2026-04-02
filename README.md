@@ -12,7 +12,7 @@ I love different IT domains:
 
 - 🌐 Finally, I also love to create and manage networks. Create networks so they can be secure and fast.
 
-🎓 I'm currently searching for a new training, to expand my knowledge in all theses domains.
+I'm currently searching for a job, to use and expand my knowledge in all theses domains.
 
 I hope you will like my work!
 
